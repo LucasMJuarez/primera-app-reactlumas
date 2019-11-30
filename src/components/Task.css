@@ -1,0 +1,20 @@
+.lista {
+    text-align: justify;
+    display: inline-block;   
+    padding: 2% 2% 2% 2%;
+    margin: 1em 1em 1em;
+    background-color: rgb(121, 209, 155);
+    border: 12px solid rgb(185, 212, 208);
+    border-collapse: inherit;
+     
+}
+
+.btnDelete{
+    background: red; 
+    border-radius: 50%;  
+    background-blend-mode: color-burn;   
+    
+}
+
+
+

@@ -1,0 +1,20 @@
+.cuerpo{ 
+    display: inline-block;
+    text-align: center;
+    background: rgb(197, 223, 230);    
+}
+
+.title{
+    display: inline-flexbox;
+    background:rgb(82, 92, 80);    
+}
+
+.forms{
+    text-align: center;
+    background: rgb(112, 210, 228);
+    padding: 3% 10% 3% 10%;
+    background-clip: content-box;
+    behavior: inherit; 
+
+}
+
